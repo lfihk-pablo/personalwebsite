@@ -1,0 +1,36 @@
+#title h1, #title {
+	margin: 0;
+	padding: 0;
+	color: green;
+	text-align: center;
+
+}
+
+#subtitle h3 {
+
+	margin: 0;
+	padding: 0;
+
+}
+
+#description {
+	float: left;
+	margin-top: 10px;
+	width: 40%;
+
+}
+
+#description p {
+	float: left;
+}
+
+#image {
+	width: 100px;
+	height: 100px;
+
+}
+
+img {
+
+	float: left;
+}

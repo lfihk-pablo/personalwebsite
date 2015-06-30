@@ -1,0 +1,80 @@
+#title {
+	text-align: center;
+	font-size: 20px;
+
+}
+
+#image{
+
+	width: 40%;
+	float: left;
+}
+
+#image2{
+
+	width: 35%;
+	float: left;
+}
+
+#rod{
+
+	float: left;
+	font-family: arial;
+	width: 60%;
+	text-align: bottom;
+	margin-bottom: 110px;
+	margin-top: 50px;
+
+}
+
+img{
+
+	float: left;
+}
+
+#rod p{
+
+	float: left;
+	text-align: bottom;
+
+}
+
+#sweet h2{
+	display: block;
+	width: 100%;
+
+}
+
+div {display: block;}
+
+#sod{
+
+	float: left;
+	font-family: arial;
+	width:57%;
+	text-align: bottom;
+	margin-bottom: 100px;
+	margin-top: 60px;
+	padding: 0 0 0 3%;
+}
+
+.row {
+	width: 100%;
+	float: left;
+}
+
+.onion {
+	width: 40%;
+	float: left;
+}
+
+.article {
+	width: 50%;
+	float: left;
+}
+
+#index {
+
+	font-size: 25px;
+
+}
