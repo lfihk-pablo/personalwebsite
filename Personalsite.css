@@ -1,10 +1,9 @@
-#nav{
+nav{
 	width: 100%;
 	background-color: white;
 	float: left;
 	height: 80px;
 	line-height: 80px;
-	border-bottom: 2px solid #B9B8BA;
 	position:fixed;
 }
 
@@ -21,17 +20,35 @@ li:hover{
 
 .container{
 	margin:0 auto;
-	padding: 0 10px;
+	padding: 0 5px;
 	max-width: 2020px;
 }
 
 #logotext{
-	float: left;
-	margin-top: 2px;
-	margin-left: 7px;
-	font-family: impact;
+
+	font-family: "Lucida Sans Unicode";
 	font-size: 30px;
-	color: #333332;
+	color: white;
+	margin-top: 0px;
+	text-align: center;
+	padding-left: 0px;
+
+
+
+}
+
+span{
+	color: #9A9A9C;
+}
+
+.blackbg{
+		background-color: black;
+		width: 240px;
+		float:left;
+		height: 75px;
+		margin-top: 35px;
+		margin-left: 35px;
+	
 }
 
 a{
@@ -42,20 +59,64 @@ a{
 
 li{
 	float: left;
-	margin-left: 30px;
-	font-family: arial;
+	margin-left: 10px;
+	font-family: "Lucida Sans Unicode";
+	color: #908E91;
 
 }
 
+#home{
+	margin-left: 0px;
+}
+
 ul{
-	float: right;
 	list-style-type: none;
-	margin: 0px;
-	padding-right: 30px;
+	margin: 0;
+	float:left;
+	padding: 0 0 0 40px;
 
 }
 
 html, body{
 	margin: 0;
 	padding: 0;
+}
+
+a{
+	margin-right: 30px;
+}
+
+img{
+	width: 20px;
+	height: 20px;
+	margin: 5px;
+	float:left;
+}
+
+#icons{
+	float: right;
+	margin-top: 30px;
+	padding-right: 40px;
+}
+
+#slogan{
+	float: left;
+	font-family: "Century Gothic";
+	margin-top:34px;
+	font-size: 30px;
+	margin-left: 30px;
+}
+
+#topnav{
+	width: 100%;
+	height: 100%;
+	float:left;
+}
+
+.under-logo{
+	width: 100%;
+	height: 100%;
+	border-bottom: 4px solid #B9B8BA;
+	float:left;
+	margin-top: 30px;
 }
