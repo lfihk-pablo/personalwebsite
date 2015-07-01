@@ -1,0 +1,20 @@
+TERMINAL
+
+pwd (show current folder/user)
+ls (list files)
+cd (open)
+	cd ..
+	cd ~
+	cd /
+touch *filename*.something (html,docx...)
+mkdir (create new folder)
+rm
+	rm file.txt
+	rm -r folder/
+less 'filename' (view file)
+cp filename.something filename1.something (copy)
+mv 	
+	filename(.something) foldername
+	filename(.something) newfilename
+touch .filename (create hidden folder)
+ls -a (show all file - including hidden ones)

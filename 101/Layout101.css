@@ -1,0 +1,43 @@
+.nav{
+	background-color: red;
+	height: 60px;
+	width: 100%;
+	line-height: 60px;
+
+}
+
+.main{
+	background-color: blue;
+	width: 70%;
+	height: 400px;
+	float: left;
+}
+
+.side{
+	background-color: orange;
+	width: 30%;
+	height: 400px;
+	float: right;
+
+}
+
+.foot{
+	background-color: gray;
+	clear: both;
+	height: 200px;
+
+}
+
+.container{
+	width: 100%;
+	padding: 10px;
+}
+
+.nav-container{
+	padding: 0 10px;
+}
+
+html, body{
+	margin: 0;
+	padding: 0;
+}
